@@ -8,6 +8,4 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
-.env
-.composer.lock
-.idea
+
