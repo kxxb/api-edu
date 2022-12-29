@@ -11,3 +11,6 @@
 .env
 .composer.lock
 .idea
+.DS_Store
+composer.lock
+symfony.lock
